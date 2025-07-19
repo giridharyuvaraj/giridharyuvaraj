@@ -1,105 +1,97 @@
-<h2 align="left">Hi there, I'm Giridhar Y 👋</h2>
+<h2 align="center">Hi there, I'm Giridhar Y 👋</h2>
 
 ---
 
-### 🔍 About Me
+### 👨‍💻 About Me:
 
-- 🎓 B.E. Electronics and Communication Engineering @ **KIOT, Salem**  
-- 🔬 Passionate about **Embedded Systems**, **IoT**, and **Web Development**
-- ⚙️ Currently working on: **Surplus Care Connect** and **IoT-based Health Monitoring Projects**
-- 🛠️ Learning more about **Digital Electronics**, **C Programming**, and **Full-Stack Dev**
-- 🤝 Open to **collaborations** & real-world **internships**
-- 🚀 Seeking opportunities in **Tech, R&D, and Innovation-driven teams**
+- 🎯 Passionate about **IoT, Embedded Systems, and Web Development**
+- 📚 Currently pursuing B.E. in ECE @ KIOT, Salem (2022–2026)
+- 💻 Building projects around **wearables, real-time health monitoring**, and **responsive web platforms**
+- 🌱 Learning **C++, Java, MySQL**, and expanding knowledge in **Digital Systems**
+- 🤝 Always open to **collaborations**, internships, and hackathons
+- 🔍 Seeking innovative roles in **tech and embedded solutions**
 
 ---
 
-### 💻 Tech Stack & Tools:
+### 🛠️ Tech Stack & Tools:
 
-#### 👨‍💻 Programming Languages:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 💻 Programming Languages:
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Core Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+#### 🔌 Area Of Interest:
+**Embedded Systems**, **C Programming**, **Digital Electronics**, **IoT Devices**, **Web Front-End**
+
+---
 
 #### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🗃️ Database:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🧠 Areas of Interest:
-- Embedded Systems  
-- Digital Electronics  
-- Real-Time IoT Systems  
-- Frontend Design & UX  
-
-#### 🧪 Simulation & Design Tools:
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-27338e?style=for-the-badge)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FF9900?style=for-the-badge&logo=autodesk&logoColor=white)
-![Wokwi](https://img.shields.io/badge/Wokwi-41B883?style=for-the-badge)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![DSCH3](https://img.shields.io/badge/DSCH3-555555?style=for-the-badge)
-![Microwind](https://img.shields.io/badge/Microwind-1D3557?style=for-the-badge)
-
-#### 🎨 Design:
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-### 🚀 Notable Projects
-
-- 🏥 **IoT-Based Blood Level Monitor**  
-  A wearable health monitoring system for cardiovascular care using real-time sensors & alerts.
-
-- 🌐 **Surplus Care Connect**  
-  A responsive web platform for redistributing surplus charity items with real-time matching logic.
-
-- ☕ **GR Cafe Website**  
-  Designed a fully responsive website using HTML/CSS to showcase menus, ambiance, and layout.
-
-- ⚡ **Walk Charger**  
-  A piezoelectric shoe insert that generates electricity from walking, powering USB-based devices.
+#### 🗃️ Databases:
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 🧪 Internships
-
-- 🖥️ **Full Stack Development** – MarcelloTech (June 2023)  
-- 🔌 **Embedded Systems & IoT** – Optimus Technocrats Pvt. Ltd. (Feb 2024)
-
----
-
-### 🏆 Achievements
-
-- 🏅 Best Student Award – KIOT (2022–2023)  
-- 🥈 2nd Prize – National Symposium Paper Presentation, Muthayammal Engg. College
+#### ⚙️ Design & Simulation Tools:
+![MATLAB](https://img.shields.io/badge/MATLAB-CC0000?style=flat-square&logo=mathworks&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=flat-square)
+![Wokwi](https://img.shields.io/badge/Wokwi-green?style=flat-square)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-F37726?style=flat-square&logo=autodesk&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 ---
 
-### 🤝 Volunteering
+### 🚀 Major Projects:
 
-- 👨‍🎓 Executive Member – INTEC ECE Association (2023–2025)  
-- 📢 Overall Student Coordinator – KIOT Symposium 2025
+- 🔐 **Surplus Care Connect**: Responsive platform for real-time distribution of surplus goods. *(June 2025)*
+- 💉 **IoT Blood Level Monitor**: Wearable system for real-time cardiovascular tracking and alerts *(Sept 2024)*
+- ☕ **GR Cafe Website**: Mobile-optimized café website using HTML & CSS *(Oct 2023)*
+- 👟 **Walk Charger**: Piezoelectric shoe charger that powers devices via USB *(July 2023)*
+
+---
+
+### 🧪 Internships & Training:
+
+- 🧠 **Full Stack Development** – Virtual Internship @ MarcelloTech, Trichy *(June 2023)*
+- 🔧 **Embedded Systems & IoT** – @ Optimus Technocrats, Salem *(Feb 2024)*
+
+---
+
+### 🏆 Achievements:
+
+- 🏅 Best Student Award – KIOT 2022–2023  
+- 🥈 2nd Prize – Paper Presentation @ National Level Symposium, Muthayammal Engineering College
+
+---
+
+### 🎓 Leadership & Volunteering:
+
+- 🤝 Executive Member – **INTEC Association**, ECE Dept. (2023–2025)  
+- 🧩 Student Coordinator – 13th National Technical Symposium, KIOT (2024–2025)
 
 ---
 
 ### 📫 Contact Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridhar-yuvaraj-0a4044261)  
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharyuvaraj07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridhar-yuvaraj-0a4044261)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/giridharyuvaraj)  
+📧 Email: giridharyuvaraj07@gmail.com  
+📱 Phone: +91 9342666147
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giridharyuvaraj&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridharyuvaraj&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giridharyuvaraj&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridharyuvaraj&layout=compact&theme=tokyonight" width="48%"/>
 </p>
-
----
-
-> “Code with purpose. Create with passion.”
