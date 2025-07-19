@@ -46,5 +46,4 @@
 ### 📬 Contact Me  
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/giridhar-yuvaraj-0a4044261)  
 [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT%20ME-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharyuvaraj07@gmail.com)  
-📱 Reach me directly: +91 9342666147
 
