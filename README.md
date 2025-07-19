@@ -2,59 +2,61 @@
 
 ---
 
-### 🧠 About Me
+### 💡 About Me
 
-- 🎓 Final Year B.E. ECE @ Knowledge Institute of Technology, Salem  
+- 🎓 Final Year B.E. ECE @ **Knowledge Institute of Technology, Salem**  
 - 💡 Passionate about **Embedded Systems**, **IoT**, and **Web Development**
-- 🔧 Skilled in **C, C++, Java, Python, HTML, CSS, MySQL**
-- 🤝 Open to **collaboration** and excited to learn and build impactful tech
+- 🛠️ Skilled in **C, C++, Java, Python, HTML, CSS, MySQL**
 - 🌱 Exploring **Digital Electronics**, **Real-Time Monitoring**, and **UI Design**
+- 🤝 Open to **collaborations** and excited to learn and build impactful tech
 
 ---
 
-### 💻 Tech Stack & Tools
-
-#### 🧑‍💻 Programming Languages:
-![C](https://img.shields.io/badge/Code-C-00599C?style=flat-square)
-![C++](https://img.shields.io/badge/Code-C++-004482?style=flat-square)
-![Java](https://img.shields.io/badge/Code-Core%20Java-ED8B00?style=flat-square)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square)
+### 🛠️ Tech Stack & Tools:
 
 ---
 
-#### ⚡ Area of Interest:
-**C Programming**, **Embedded Systems**, **Digital Electronics**, **Real-time IoT Systems**, **Web UI Design**
+#### 👨‍💻 Programming Languages:
+![C](https://img.shields.io/badge/Code-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Code-C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Core Java](https://img.shields.io/badge/Code-Core%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+#### ⚡ Area Of Interest:
+Firmware & Embedded Systems, Digital Electronics, Real-time Monitoring, Web UI Design
 
 ---
 
 #### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square)
-![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square)
+![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-#### 🗄️ Database:
-![MySQL](https://img.shields.io/badge/Database-MySQL-00758F?style=flat-square)
+#### 🗄️ Databases:
+![MySQL](https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 #### 🧪 Design & Simulation Tools:
-![MATLAB](https://img.shields.io/badge/Tools-MATLAB-CC0000?style=flat-square)
-![Proteus](https://img.shields.io/badge/Tools-Proteus-blue?style=flat-square)
-![Wokwi](https://img.shields.io/badge/Tools-Wokwi-green?style=flat-square)
-![Tinkercad](https://img.shields.io/badge/Tools-Tinkercad-F37726?style=flat-square)
-![Arduino IDE](https://img.shields.io/badge/Tools-Arduino_IDE-00979D?style=flat-square)
-![DSCH3](https://img.shields.io/badge/Tools-DSCH3-lightgrey?style=flat-square)
-![Microwind](https://img.shields.io/badge/Tools-Microwind-lightgrey?style=flat-square)
-![Canva](https://img.shields.io/badge/Tools-Canva-00C4CC?style=flat-square)
-![Photoshop](https://img.shields.io/badge/Tools-Photoshop-31A8FF?style=flat-square)
+![MATLAB](https://img.shields.io/badge/Tools-MATLAB-CC0000?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Tools-Proteus-27338e?style=for-the-badge)
+![Wokwi](https://img.shields.io/badge/Tools-Wokwi-00A86B?style=for-the-badge)
+![Tinkercad](https://img.shields.io/badge/Tools-Tinkercad-F37726?style=for-the-badge&logo=autodesk&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Tools-Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![DSCH3](https://img.shields.io/badge/Tools-DSCH3-666666?style=for-the-badge)
+![Microwind](https://img.shields.io/badge/Tools-Microwind-555555?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Tools-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Tools-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ---
 
-### 📫 Contact Me
+### 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giridhar-yuvaraj-0a4044261)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:giridharyuvaraj07@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giridhar-yuvaraj-0a4044261)  
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharyuvaraj07@gmail.com)  
 📱 +91 9342666147
 
 ---
